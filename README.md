@@ -1,6 +1,6 @@
 # Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student
-## SINDHU PRIYA REDDY
-## 212224040319
+## DHANUSH C
+## 212224040066
 
 ## AIM:
 To write a program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
